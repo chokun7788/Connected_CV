@@ -1,5 +1,4 @@
-ultralytics
-opencv-python
-numpy
-torch
-
+ultralytics==8.4.51
+opencv-python==4.13.0
+numpy==2.4.4
+torch==2.12.0
